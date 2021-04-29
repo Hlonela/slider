@@ -1,0 +1,37 @@
+@import url("https: //picsum .photos/ 1200?random=2;");
+body{
+    background: url("https: //picsum .photos/ 1200?random=2;");
+    font-family: sans-serif;
+    overflow: hidden;
+}
+
+.owl-carousel { 
+    
+    width: 90%;
+    height: auto;
+    margin: auto;
+    margin-top: 40px;
+}
+.container h1 {
+    font-size: 36px;
+    color: #917c06;
+    line-height: 27px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.owl-carousel q{
+    font-size: 18px;
+    color: antiquewhite;
+    line-height: 27px;
+    margin-bottom: 20px;
+    position: relative;
+    padding: 0 20px 30px;
+
+
+}
+.Word-area {
+
+}
+
+    
